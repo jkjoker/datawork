@@ -1,7 +1,7 @@
 # datawork
 
 
-jkzhou's learning record about data_work.
+jkzhou's learning record about datawork.
 
 
 
