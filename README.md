@@ -1,7 +1,7 @@
 # datawork
 
 
-jkzhou's datawork.
+jkzhou's learning record about data work.
 
 
 
@@ -45,9 +45,15 @@ git push <远程主机名> <本地分支名>：<远程分支名> # 推送到远�
 ```
 
 参考教程：
+
 1、@带甜味的盐@ 《Git提交代码完整流程》：https://blog.csdn.net/s_y_w123/article/details/112465793
+
 2、@梦魇《手把手教你用git上传项目到GitHub：》https://zhuanlan.zhihu.com/p/193140870
+
 3、《新手创建第一个GitHub项目，一步一步将本地项目提交到GitHub》：https://cloud.tencent.com/developer/article/1595821
 
+
 ——————————————
+
 联系方式：zhouqiling_bjfu@foxmail.com
+
