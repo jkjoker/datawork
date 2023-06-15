@@ -7,6 +7,15 @@ jkzhou's learning record about datawork.
 
 # 使用记录
 
+###### Thu Jun 15 22:50:22 CST 2023
+
+制作了一个datawork库，名为pydatawork，在尝试阶段，还没有正式添加内容。
+
+可以正常通过pip安装：
+
+`pip3 install pydatawork`
+
+
 ###### Wed Apr 5 15:24:18 CST 2023
 
 开始使用git，配置好之后，下载了很多感兴趣的项目。
