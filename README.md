@@ -9,12 +9,31 @@ jk.zhou's learning record about datawork。
 
 ###### Thu Jun 15 22:50:22 CST 2023
 
-制作了一个datawork库，名为pydatawork，在尝试阶段，只添加了测试内容。
+制作了一个datawork库，名为pydatawork，已上传pypi，在尝试阶段，只添加了测试内容，可以通过pip安装。
 
-可以正常通过pip安装：
+pydatawork安装指令：
 
 ```shell
 pip3 install pydatawork
+```
+
+pypi维护指令：
+
+```shell
+cd 到pydatawork文件夹
+python3 setup.py sdist bdist_wheel # 打包
+twine check dist/* # 检查
+twine upload dist/* # 上传，需要输入帐号密码
+
+```
+
+pypi初始使用：
+
+```shell
+注册pypi
+pip3 install twine # 安装twine，后续使用twine上传包
+pip3 install --upgrade setuptools wheel twine # 升级工具，如果没安装需要先安装
+
 ```
 
 
