@@ -1,7 +1,7 @@
 # datawork
 
 
-jk.zhou's learning record about datawork。
+jk.zhou's datawork。
 
 
 
@@ -10,7 +10,9 @@ jk.zhou's learning record about datawork。
 ###### Sun Jul 2 14:48:00 CST 2023
 
 pydatawork官方文档：
+
 https://pypi.org/project/pydatawork/
+
 
 
 ###### Thu Jun 15 22:50:22 CST 2023
