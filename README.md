@@ -7,6 +7,12 @@ jk.zhou's learning record about datawork。
 
 # pydatawork
 
+###### Sun Jul 2 14:48:00 CST 2023
+
+pydatawork官方文档：
+https://pypi.org/project/pydatawork/
+
+
 ###### Thu Jun 15 22:50:22 CST 2023
 
 制作了一个datawork库，名为pydatawork，已上传pypi，在尝试阶段，只添加了测试内容，可以通过pip安装。
