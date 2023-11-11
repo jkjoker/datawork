@@ -14,6 +14,10 @@ pydatawork官方文档：
 https://pypi.org/project/pydatawork/
 
 
+pydatawork社区：
+
+https://support.qq.com/products/615375/
+
 
 ###### Thu Jun 15 22:50:22 CST 2023
 
