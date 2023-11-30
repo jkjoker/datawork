@@ -96,6 +96,7 @@ git push -u origin master #将本地的代码提交到远程仓库的master分�
 
 ```
 
+
 在windows中，配置git需要用到的指令：
 
 ```shell
@@ -113,7 +114,10 @@ ssh -T git@github.com # 公钥添加到github后，测试是否能连接成功�
 # 在Git Bash中操作
 # 先进入datawork文件夹
 git status # 查看状态
-git pull # 拉取最新内容
+git pull # 拉取最新内容，需要输入匹配密码
+git add . # 暂存修改内容
+git commit -m "xxx" # 添加修改备注
+git push origin datawork:datawork # 推送，需要输入匹配密码
 
 ```
 
@@ -132,11 +136,21 @@ git push <远程主机名> <本地分支名>：<远程分支名> # 推送到远�
 
 # 参考文献
 
-教程：
+在windows中配置git教程：
+
+1、国内下载地址：https://registry.npmmirror.com/binary.html?path=git-for-windows/
+
+2、安装教程参考
+《windows的git配置流程》：https://blog.csdn.net/Wmeihua/article/details/123257553
+
+《Git for Windows. 国内镜像》：https://blog.csdn.net/jiesunliu3215/article/details/111559125
+
+
+在linux中配置git教程：
 
 1、@带甜味的盐@ 《Git提交代码完整流程》：https://blog.csdn.net/s_y_w123/article/details/112465793
 
-2、@梦魇 《手把手教你用git上传项目到GitHub：》https://zhuanlan.zhihu.com/p/193140870
+2、@梦魇 《手把手教你用git上传项目到GitHub》：https://zhuanlan.zhihu.com/p/193140870
 
 3、《新手创建第一个GitHub项目，一步一步将本地项目提交到GitHub》：https://cloud.tencent.com/developer/article/1595821
 
