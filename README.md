@@ -82,7 +82,7 @@ git init # 新建或进入某个文件夹，在该文件夹打开终端，输入
 git clone url # 获取某个项目的SSH下载链接，url指链接
 ```
 
-初始配置需要用到的指令：
+在linux中初始配置需要用到的指令：
 
 ```shell
 echo "# site-navigation" >> README.md # 指定文件夹和文件？？
@@ -93,6 +93,27 @@ git remote add origin https://github.com/ideshun/site-navigation.git # 添加远
 git push -u origin master #将本地的代码提交到远程仓库的master分支。 1）我的库的主分支改成datawork了，就需要修改。
 
 # 特别说明（2023.6.15）：第一次操作时，由于新建的远程仓库是空的，所以要加上-u这个参数，等远程仓库里面有了内容之后，下次再从本地库上传内容的时候只需 git push origin master。这里的origin指远程主机，master指本地分支名字，如果是默认值，就是master。如果已经改了，完整操作是：git push origin 本地分支名字：远程分支名字
+
+```
+
+在windows中，配置git需要用到的指令：
+
+```shell
+# 在Git Bash中操作
+git config --global user.name "git账户名，可与github一致" # 配置git账户名
+git config --global user.email "邮箱，可与github一致" # 配置git邮箱
+git config --list # 查看配置信息
+ssh-keygen -t rsa # 生成密钥，包含公钥和私钥，需要设置匹配密码
+ssh -T git@github.com # 公钥添加到github后，测试是否能连接成功，需要输入匹配密码
+```
+
+在windows中，进入某个文件夹使用git：
+
+```shell
+# 在Git Bash中操作
+# 先进入datawork文件夹
+git status # 查看状态
+git pull # 拉取最新内容
 
 ```
 
