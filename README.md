@@ -26,12 +26,13 @@ https://support.qq.com/products/615375/
 pydatawork安装指令：
 
 ```shell
-pip3 install pydatawork
+pip3 install pydatawork 或 pip install pydatawork
 ```
 
 pypi维护指令：
 
 ```shell
+# 在第二步，如果自己的电脑能直接用python，可直接用python，而不必用python3
 cd 到pydatawork文件夹
 python3 setup.py sdist bdist_wheel # 打包
 twine check dist/* # 检查
@@ -42,7 +43,8 @@ twine upload dist/* # 上传，需要输入帐号密码
 pypi初始使用：
 
 ```shell
-注册pypi
+# 先注册pypi
+# 再安装工具：如果自己的电脑安装的是pip，可以用pip，而不是pip3
 pip3 install twine # 安装twine，后续使用twine上传包
 pip3 install --upgrade setuptools wheel twine # 升级工具，如果没安装需要先安装
 
