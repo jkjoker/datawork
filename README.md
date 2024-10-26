@@ -1,6 +1,8 @@
 # introduction
 
-jk.zhou's datawork。
+jk.zhou's datawork.
+pydatawork is the first.
+datawork desktop app for windows is the second.
 
 
 # datawork (desktop app, windows)
@@ -24,9 +26,10 @@ datawork是一个本地知识库工具，支持本地markdown全文检索与提�
 - 更多场景...
 
 **功能特性**：
-- 知识库：检索与提取。内置3种信息提取模式；支持多关键词精准检索；支持自定义正则表达式检索与提取。
+- 知识库：检索与提取。内置3种信息提取模式；支持多关键词+二次检索实现完整、精准且高度的检索；也支持自定义正则表达式检索与提取。
 - 笔记：记笔记。支持自动保存；支持多选项卡；支持callout，可与obsidian等第三方编辑器同时使用。
 - AI：对话。支持结构化提示词，可自定义系统级prompt；支持精准控制多轮会话准确度；可通过日志查看功能调用链及响应。
+- 日志：查阅。支持查看程序运作逻辑链条，了解背后的数据处理原理；
 - 其他：支持窗口置顶、全局快捷窗口、检索结果和聊天记录导入导出等。
 
 **数据安全**：
