@@ -60,13 +60,13 @@ https://github.com/jkjoker/datawork/releases/tag/v1.0.0
 **软件内页截图**：
 
 
-<img src="https://github.com/jkjoker/datawork/blob/datawork/images/Pasted%20image%2020241027233110.png" width = "650" height = "665" alt="" align=center />
+<img src="https://github.com/jkjoker/datawork/blob/datawork/images/Pasted%20image%2020241027233110.png" width = "800" height = "665" alt="" align=center />
 
-<img src="https://github.com/jkjoker/datawork/blob/datawork/images/Pasted%20image%2020241027233206.png" width = "650" height = "665" alt="" align=center />
+<img src="https://github.com/jkjoker/datawork/blob/datawork/images/Pasted%20image%2020241027233206.png" width = "800" height = "665" alt="" align=center />
 
-<img src="https://github.com/jkjoker/datawork/blob/datawork/images/Pasted%20image%2020241027233045.png" width = "650" height = "665" alt="" align=center />
+<img src="https://github.com/jkjoker/datawork/blob/datawork/images/Pasted%20image%2020241027233045.png" width = "800" height = "665" alt="" align=center />
 
-<img src="https://github.com/jkjoker/datawork/blob/datawork/images/Pasted%20image%2020241027233421.png" width = "650" height = "665" alt="" align=center />
+<img src="https://github.com/jkjoker/datawork/blob/datawork/images/Pasted%20image%2020241027233421.png" width = "800" height = "665" alt="" align=center />
 
 
 
