@@ -2,13 +2,8 @@
 
 jk.zhou's datawork.
 
-pydatawork is the first.
-
-datawork desktop app for windows is the second.
-
 
 # datawork (desktop app, windows)
-
 
 
 **简介**：
@@ -17,6 +12,7 @@ datawork是一个本地知识库工具，支持本地markdown全文检索与提�
 
 datawork v1.0.0 for windows 已发布：
 https://github.com/jkjoker/datawork/releases/tag/v1.0.0
+
 
 **致谢**：
 感谢cursor、claude-3.5-sonnet-20240620在datawork开发过程中提供的坚强助力。
@@ -60,6 +56,16 @@ https://github.com/jkjoker/datawork/releases/tag/v1.0.0
 - 3）保留一切权利；
 - 4）为保证用户软件使用安全，未经许可，任何第三方不能以任何形式直接或间接传播本仓库所提供的.exe软件包，用户可通过官方仓库的下载页面下载.exe软件包；
 - 5）目前软件处于测试阶段，用户使用时应注意个人数据备份，使用过程中一切后果自行承担。
+
+**软件内页截图**：
+
+<img src="https://user-images.githubusercontent.com/Pasted image 20241027233045.png" width="200" />
+
+<img src="https://user-images.githubusercontent.com/Pasted image 20241027233045.png" width="200" />
+
+<img src="https://user-images.githubusercontent.com/Pasted image 20241027233045.png" width="200" />
+
+<img src="https://user-images.githubusercontent.com/Pasted image 20241027233045.png" width="200" />
 
 
 
