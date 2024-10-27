@@ -14,6 +14,10 @@ datawork v1.0.0 for windows 已发布：
 https://github.com/jkjoker/datawork/releases
 
 
+**设计理念**：
+在某程度上，datawork算是“集成”了obsidian、python和ai，是把笔记、自动化与大模型三者的能力结合起来了，我希望每个人在日常生活和工作中都能得到这三者的联合助力，然后能更好地关注自己的想法和思考、所面对的每一项真实业务，以及在每一次行动中有效积累。
+
+
 **致谢**：
 感谢cursor、claude-3.5-sonnet-20240620在datawork开发过程中提供的坚强助力。
 如果您在使用过程中有任何建议和想法，或发现软件存在漏洞，欢迎给我发邮件，也欢迎在github提交issue，非常感谢！
