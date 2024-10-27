@@ -59,13 +59,13 @@ https://github.com/jkjoker/datawork/releases/tag/v1.0.0
 
 **软件内页截图**：
 
-<img src="https://user-images.githubusercontent.com/Pasted image 20241027233045.png" width="200" />
+<img src="datawork\images\Pasted image 20241027233045.png" width="200" />
 
-<img src="https://user-images.githubusercontent.com/Pasted image 20241027233045.png" width="200" />
+<img src="datawork\images\Pasted image 20241027233110.png" width="200" />
 
-<img src="https://user-images.githubusercontent.com/Pasted image 20241027233045.png" width="200" />
+<img src="datawork\images\Pasted image 20241027233206.png" width="200" />
 
-<img src="https://user-images.githubusercontent.com/Pasted image 20241027233045.png" width="200" />
+<img src="datawork\images\Pasted image 20241027233421.png" width="200" />
 
 
 
