@@ -76,29 +76,29 @@ https://github.com/jkjoker/datawork/releases
 
 # pydatawork（pypi）
 
-2023.7.2 14:48:00
-
-pydatawork官方文档：
-
-https://pypi.org/project/pydatawork/
-
-
-pydatawork社区：
-
-https://support.qq.com/products/615375/
-
-
-
 2023.6.15 22:50:22
 
-制作了一个datawork库，名为pydatawork，已上传pypi，在尝试阶段，只添加了测试内容，可以通过pip安装。
+**简介**：
+pydatawork是一个python库，目的是让每个人都能将python用于办公自动化。已上传pypi，可以通过pip安装。
 
-pydatawork安装指令：
+**项目特性**：
+在教程辅助下，小白用户只需管理好相关文件路径，即可借助python实现部分大批量数据操作，让电脑发挥出“计算机”的潜力。
+
+**设计理念**：
+个人电脑不应该只是个笔记本，而是计算机。
+
+**pydatawork安装指令**：
 
 ```shell
 pip3 install pydatawork 或 pip install pydatawork
 ```
 
+**pydatawork官方文档**：
+
+https://pypi.org/project/pydatawork/
+
+
+**其他**
 pypi维护指令：
 
 ```shell
