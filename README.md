@@ -98,7 +98,8 @@ pip3 install pydatawork 或 pip install pydatawork
 https://pypi.org/project/pydatawork/
 
 
-**其他**
+**其他**：
+
 pypi维护指令：
 
 ```shell
