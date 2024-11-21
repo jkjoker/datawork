@@ -10,8 +10,11 @@ jk.zhou's datawork.
 datawork是一个本地知识库工具，支持本地markdown全文检索与提取，支持多选项卡记纯文本笔记，支持国内外AI大模型调用，支持ollama和部分第三方大模型api供应商，旨在帮助个人更好地用上自己的知识和通过AI调用知识。项目基于python的tkinter构建，目前已支持windows。
 
 
-datawork v1.0.0 for windows 已发布：
+datawork v2.0.0 for windows 已发布：
 https://github.com/jkjoker/datawork/releases
+
+临时链接：（坚果云，datawork v2.0.2, windows）
+https://www.jianguoyun.com/p/Dcv8cmkQtuX_CRiwq-AFIAA
 
 
 **设计理念**：
@@ -29,13 +32,18 @@ https://github.com/jkjoker/datawork/releases
 - 通过第三方api供应商接入大模型（API2D），探索ai。
 - 在同一个会话窗口调用不同大模型，探索ai。
 - 精准控制多轮会话和提示词，探索ai。
+- 自定义agent，调用任何喜欢的api，为每个agent设定语言风格、行为原则。
+- 同时与多个agent对话。
+- 选择多个agent参与主题讨论，设定主题与轮数后，agent自行参与指定主题的讨论。
+- 完备的prompt管理。
+- 在agent对话中使用prompt，将其当作“知识库”功能来使用。
 - 在桌面随手记笔记，通过多选项卡常置多条笔记，笔记自动保存到指定位置，如obsidian的某个文件夹。
 - 更多场景...
 
 **功能特性**：
 - 知识库：检索与提取。内置3种信息提取模式；支持多关键词+二次检索实现完整、精准且高度的检索；也支持自定义正则表达式检索与提取。
 - 笔记：记笔记。支持自动保存；支持多选项卡；支持callout；可与obsidian等第三方编辑器同时使用。
-- AI：对话。支持结构化提示词，可自定义系统级prompt；支持精准控制多轮会话准确度；可通过日志查看功能调用链及响应。
+- AI：对话。支持结构化提示词，可自定义系统级prompt；支持精准控制多轮会话准确度；可通过日志查看功能调用链及响应；自定义agent；多agent对话；多agent自动主题讨论。
 - 日志：查阅。支持查看程序运作逻辑链条，了解背后的数据处理原理；
 - 其他：支持窗口置顶、全局快捷窗口、检索结果和聊天记录导入导出等。
 
