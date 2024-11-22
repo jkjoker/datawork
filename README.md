@@ -29,7 +29,7 @@ https://www.jianguoyun.com/p/Dcv8cmkQtuX_CRiwq-AFIAA
 - 通过关键词从多个obsidian库按指定模式提取内容，供进一步研究。
 - 通过ollama调用本地大模型，探索ai。
 - 通过api调用国内外主流大模型（openai、claude、gemini、零一万物、kimi、智谱、讯飞、混元、通义千问、deepseek等），探索ai。
-- 通过第三方api供应商接入大模型（API2D），探索ai。
+- 通过第三方api供应商接入大模型，探索ai。
 - 在同一个会话窗口调用不同大模型，探索ai。
 - 精准控制多轮会话和提示词，探索ai。
 - 自定义agent，调用任何喜欢的api，为每个agent设定语言风格、行为原则。
