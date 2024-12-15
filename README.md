@@ -16,9 +16,6 @@ https://github.com/jkjoker/datawork/releases
 临时链接：（坚果云，datawork v2.1.4 for windows）
 https://www.jianguoyun.com/p/DTawTZ8QtuX_CRjV9eMFIAA
 
-临时链接：（坚果云，datawork v2.0.2, windows）
-https://www.jianguoyun.com/p/Dcv8cmkQtuX_CRiwq-AFIAA
-
 
 **设计理念**：
 在某程度上，datawork算是“集成”了obsidian、python和ai，是把笔记、自动化与大模型三者的能力结合起来了，我希望每个人在日常生活和工作中都能得到这三者的联合助力，然后能更好地关注自己的想法和思考、所面对的每一项真实业务，以及在每一次行动中有效积累。
