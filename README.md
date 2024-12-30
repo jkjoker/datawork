@@ -10,11 +10,11 @@ jk.zhou's datawork.
 datawork是一个本地知识库工具，支持本地markdown全文检索与提取，支持多选项卡记纯文本笔记，支持国内外AI大模型调用，支持ollama和部分第三方大模型api供应商，旨在帮助个人更好地用上自己的知识和通过AI调用知识。项目基于python的tkinter构建，目前已支持windows。
 
 
-datawork v2.0 for windows 已发布：
+datawork v3.0 for windows 已发布：【全新支持本地向量知识库】
 https://github.com/jkjoker/datawork/releases
 
-临时链接：（坚果云，datawork v2.1.4 for windows）
-https://www.jianguoyun.com/p/DTawTZ8QtuX_CRjV9eMFIAA
+临时链接：（坚果云，datawork v3.0.5 for windows）
+[https://www.jianguoyun.com/p/DTawTZ8QtuX_CRjV9eMFIAA](https://www.jianguoyun.com/p/DZ5oyQ4QtuX_CRjdlOYFIAA)
 
 
 **设计理念**：
