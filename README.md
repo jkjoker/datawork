@@ -13,8 +13,8 @@ datawork是一个本地知识库工具，支持本地markdown全文检索与提�
 datawork v3.0 for windows 已发布：【全新支持本地向量知识库】
 https://github.com/jkjoker/datawork/releases
 
-临时链接：（坚果云，datawork v3.0.5 for windows）
-[https://www.jianguoyun.com/p/DTawTZ8QtuX_CRjV9eMFIAA](https://www.jianguoyun.com/p/DZ5oyQ4QtuX_CRjdlOYFIAA)
+临时链接：（坚果云，datawork v3.0.6 for windows）
+https://www.jianguoyun.com/p/Deu-BHEQtuX_CRjU4-YFIAA
 
 
 **设计理念**：
