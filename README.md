@@ -13,7 +13,7 @@ datawork是一个本地知识库工具，支持本地markdown全文检索与提�
 datawork v3.0 for windows 已发布：【全新支持本地向量知识库】【支持运行python代码】【最近更新时间：2025.1.22】
 https://github.com/jkjoker/datawork/releases
 
-**免费试用【2025.1.22——2026.2.1】**
+**免费试用【2025.1.22—2026.2.1】**
 
 datawork向量知识库支持2025年全年免费试用：
 
