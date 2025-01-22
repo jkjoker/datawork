@@ -18,7 +18,14 @@ https://github.com/jkjoker/datawork/releases
 由于github网络访问不方便，最新版本可能无法第一时间上传github，了解最新动态，可关注下面两个渠道。
 
 1、datawork官方页面：
+datawork news：
 https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Aabout
+
+changelog：
+https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Achangelog
+
+service：
+https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Aservice
 
 2、微信公众号：傲骄笔记
 
