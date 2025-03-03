@@ -39,22 +39,8 @@ datawork向量知识库支持2025年全年免费试用：
 datawork news：
 https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Aabout
 
-changelog：
-https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Achangelog
-
-service：
-https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Aservice
 
 2、微信公众号：傲骄笔记
-
-《datawork：超大规模更新，现在每个人都能用上python》
-https://mp.weixin.qq.com/s/OxsHjDkCnyKoH3HzEoa3Mw
-
-《datawork：通过向量知识库进行专业学习》
-https://mp.weixin.qq.com/s/zvs6vPDcxKmU5gm-2naLPw
-
-《datawork：全新支持本地向量知识库，开箱即用》
-https://mp.weixin.qq.com/s/7RYhiv8-xDkKKxwQjI5GFg
 
 
 **设计理念**：
