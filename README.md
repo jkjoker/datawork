@@ -11,7 +11,9 @@ datawork是一个本地知识库工具，支持本地markdown全文检索与提�
 
 
 datawork v3.0 for windows 已发布：【全新支持本地向量知识库】【支持直接管理python环境和运行python代码】【支持搭建个性化ai数据处理流水线】【最近更新时间：2025.3.3】
-【最新版下载地址】https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Aabout
+
+【最新版下载地址】：
+https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Aabout
 
 **免费试用【2025.1.22—2026.2.1】**
 
