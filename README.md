@@ -1,6 +1,6 @@
 # introduction
 
-jk.zhou's datawork.
+jk.zhou's datawork and ai studio.
 <img src="https://github.com/jkjoker/datawork/blob/datawork/images/Pasted%20image%2020250531185101.png" alt="" align=center />
 
 # datawork (desktop app, windows)
