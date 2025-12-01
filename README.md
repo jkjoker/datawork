@@ -43,14 +43,10 @@ datawork 是一个**本地优先**的个人AI Agent系统，集成了笔记、Py
 ## 界面预览
 
 <div align="center">
-<img src="https://github.com/jkjoker/datawork/blob/datawork/images/Pasted%20image%2020241027233110.png" width="45%" />
-<img src="https://github.com/jkjoker/datawork/blob/datawork/images/Snipaste_2025-01-04_08-47-07.png" width="45%" />
+<img src="https://github.com/jkjoker/datawork/blob/datawork/images/images/coder.png" width="45%" />
+<img src="https://github.com/jkjoker/datawork/blob/datawork/images/images/setup.png" width="45%" />
 </div>
 
-<div align="center">
-<img src="https://github.com/jkjoker/datawork/blob/datawork/images/Snipaste_2025-01-04_08-46-19.png" width="45%" />
-<img src="https://github.com/jkjoker/datawork/blob/datawork/images/Pasted%20image%2020241027233421.png" width="45%" />
-</div>
 
 ## 快速开始
 
@@ -115,13 +111,8 @@ It empowers you to **better focus on your thoughts and real-world tasks, and ach
 ## Screenshots
 
 <div align="center">
-<img src="https://github.com/jkjoker/datawork/blob/datawork/images/Pasted%20image%2020241027233110.png" width="45%" />
-<img src="https://github.com/jkjoker/datawork/blob/datawork/images/Snipaste_2025-01-04_08-47-07.png" width="45%" />
-</div>
-
-<div align="center">
-<img src="https://github.com/jkjoker/datawork/blob/datawork/images/Snipaste_2025-01-04_08-46-19.png" width="45%" />
-<img src="https://github.com/jkjoker/datawork/blob/datawork/images/Pasted%20image%2020241027233421.png" width="45%" />
+<img src="https://github.com/jkjoker/datawork/blob/datawork/images/images/coder.png" width="45%" />
+<img src="https://github.com/jkjoker/datawork/blob/datawork/images/images/setup.png" width="45%" />
 </div>
 
 ## Quick Start
