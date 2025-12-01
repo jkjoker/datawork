@@ -1,4 +1,26 @@
-MIT License
+# License / 许可证
+
+## 声明
+
+**datawork 不是开源项目，保留所有权利。**
+
+GitHub 仓库创建时要求必须选择一个许可证，因此选择了 MIT License 作为占位。该许可证对 datawork 不生效。
+
+如需商业合作或授权事宜，请联系作者：1406584456@qq.com
+
+---
+
+## Notice
+
+**datawork is NOT an open-source project. All rights reserved.**
+
+When creating this GitHub repository, selecting a license was mandatory, so MIT License was chosen as a placeholder. This license does NOT apply to datawork.
+
+For commercial cooperation or licensing inquiries, please contact: 1406584456@qq.com
+
+---
+
+MIT License (placeholder only / 仅作占位)
 
 Copyright (c) 2023 joker
 
@@ -19,3 +41,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
