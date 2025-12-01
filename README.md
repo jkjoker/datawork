@@ -8,10 +8,10 @@
 
 *For anyone who encodes — 给每一个需要对信息进行编码的人*
 
-![Windows](https://img.shields.io/badge/Platform-Windows-blue?logo=windows)
-![Python](https://img.shields.io/badge/Built%20with-Python-3776AB?logo=python&logoColor=white)
-![Version](https://img.shields.io/badge/Version-3.8.4a3-green)
-![License](https://img.shields.io/badge/License-Proprietary-red)
+<img src="https://img.shields.io/badge/Platform-Windows-blue?logo=windows" alt="Windows" />
+<img src="https://img.shields.io/badge/Built%20with-Python-3776AB?logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Version-3.8.4a3-green" alt="Version" />
+<img src="https://img.shields.io/badge/License-Proprietary-red" alt="License" />
 
 [官方主页](https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Aabout) · [下载](https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Aabout) · [更新日志](https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Achangelog)
 
