@@ -43,8 +43,11 @@ datawork 是一个**本地优先**的个人AI Agent系统，集成了笔记、Py
 ## 界面预览
 
 <div align="center">
-<img src="https://github.com/jkjoker/datawork/blob/datawork/images/coder.png" width="45%" />
-<img src="https://github.com/jkjoker/datawork/blob/datawork/images/setup.png" width="45%" />
+<img src="https://github.com/jkjoker/datawork/blob/datawork/images/coder.png" width="60%" />
+</div>
+
+<div align="center">
+<img src="https://github.com/jkjoker/datawork/blob/datawork/images/setup.png" width="40%" />
 </div>
 
 
@@ -72,8 +75,7 @@ datawork 是一个**本地优先**的个人AI Agent系统，集成了笔记、Py
 ## 联系
 
 **作者**: jk.zhou — 专注于Agent系统开发与数据工作  
-**Email**: 1406584456@qq.com  
-**个人网站**: [publish.obsidian.md/xm](https://publish.obsidian.md/xm)
+**Email**: 1406584456@qq.com | **个人网站**: [publish.obsidian.md/xm](https://publish.obsidian.md/xm)
 
 ---
 
@@ -111,8 +113,11 @@ It empowers you to **better focus on your thoughts and real-world tasks, and ach
 ## Screenshots
 
 <div align="center">
-<img src="https://github.com/jkjoker/datawork/blob/datawork/images/coder.png" width="45%" />
-<img src="https://github.com/jkjoker/datawork/blob/datawork/images/setup.png" width="45%" />
+<img src="https://github.com/jkjoker/datawork/blob/datawork/images/coder.png" width="60%" />
+</div>
+
+<div align="center">
+<img src="https://github.com/jkjoker/datawork/blob/datawork/images/setup.png" width="40%" />
 </div>
 
 ## Quick Start
@@ -146,6 +151,7 @@ It empowers you to **better focus on your thoughts and real-world tasks, and ach
 **© 2024-2025 jk.zhou. All rights reserved.**
 
 </div>
+
 
 
 
