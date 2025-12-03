@@ -10,7 +10,7 @@
 
 <a href="https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Aabout"><img src="https://img.shields.io/badge/Platform-Windows-blue?logo=windows" alt="Windows" /></a>
 <a href="https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Aabout"><img src="https://img.shields.io/badge/Built%20with-Python-3776AB?logo=python&logoColor=white" alt="Python" /></a>
-<a href="https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Aabout"><img src="https://img.shields.io/badge/Version-3.8.4a3-green" alt="Version" /></a>
+<a href="https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Aabout"><img src="https://img.shields.io/badge/Version-3.8.4a5.20251203-green" alt="Version" /></a>
 <a href="https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Aabout"><img src="https://img.shields.io/badge/License-Proprietary-red" alt="License" /></a>
 
 [官方主页](https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Aabout) · [下载](https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Aabout) · [更新日志](https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Achangelog)
@@ -35,7 +35,7 @@ datawork 是一个**本地优先**的个人AI Agent系统，集成了笔记、Py
 
 | 模块 | 特性 |
 |------|------|
-| **AI Agent** | 多轮MCP工具调用（单次最多100轮）、多Agent协同、9种模型支持、自定义MCP开发 |
+| **AI Agent** | 多轮MCP工具调用（deepseek单次支持最多200轮，含专属上下文压缩和状态管理机制，已特别适配推理模式下的工具调用）、多Agent协同、9种模型支持、自定义MCP开发 |
 | **知识库** | 本地向量知识库、本地全文检索（自定义范围+正则）、Mini全局窗口、数据主权 |
 | **Coder 编辑器** | 资源管理器（浏览、编辑、自动刷新）、Git集成、Python/Go代码运行、MCP开发 |
 | **自动化** | Python环境管理、Agent安全运行（白名单+权限控制）、离线语音识别（Vosk）、Web服务 |
@@ -102,7 +102,7 @@ It empowers you to **better focus on your thoughts and real-world tasks, and ach
 
 | Category | Features |
 |----------|----------|
-| **AI Agent** | Multi-turn MCP (up to 100 rounds), Multi-Agent collaboration, 9 model providers, Custom MCP development |
+| **AI Agent** | Multi-turn MCP (DeepSeek supports up to 200 tool rounds per session, with dedicated context compression and state management, specially adapted for tool calls in reasoning mode), Multi-Agent collaboration, 9 model providers, Custom MCP development |
 | **Knowledge Base** | Local vector database, Full-text search (custom scope + regex), Global Mini window, Data sovereignty |
 | **Coder** | File explorer (browse, edit, auto-refresh), Git integration, Python/Go execution, MCP development |
 | **Automation** | Python env management, Agent safe execution (whitelist + permissions), Offline speech recognition (Vosk), Web server |
