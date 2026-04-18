@@ -142,7 +142,7 @@ It empowers you to **better focus on your thoughts and real-world tasks, and ach
 
 <div align="center">
 
-**© 2024-2025 jk.zhou. All rights reserved.**
+**© 2024-2026 jk.zhou. All rights reserved.**
 
 </div>
 
