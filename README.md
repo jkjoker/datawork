@@ -6,7 +6,7 @@
 
 **Local-First Personal AI Agent System**
 
-*For anyone who encodes — 给每一个需要对信息进行编码的人*
+*For anyone who encodes — 给每个需要对信息进行编码的人*
 
 <a href="https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Aabout"><img src="https://img.shields.io/badge/Platform-Windows-blue?logo=windows" alt="Windows" /></a>
 <a href="https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Aabout"><img src="https://img.shields.io/badge/Built%20with-Python-3776AB?logo=python&logoColor=white" alt="Python" /></a>
