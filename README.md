@@ -10,7 +10,7 @@
 
 <a href="https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Aabout"><img src="https://img.shields.io/badge/Platform-Windows-blue?logo=windows" alt="Windows" /></a>
 <a href="https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Aabout"><img src="https://img.shields.io/badge/Built%20with-Python-3776AB?logo=python&logoColor=white" alt="Python" /></a>
-<a href="https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Aabout"><img src="https://img.shields.io/badge/Version-3.8.6f10.3.20260531-green" alt="Version" /></a>
+<a href="https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Aabout"><img src="https://img.shields.io/badge/Version-3.8.7.20260619-green" alt="Version" /></a>
 <a href="https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Aabout"><img src="https://img.shields.io/badge/License-Proprietary-red" alt="License" /></a>
 
 [官方主页](https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Aabout) · [下载](https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Aabout) · [更新日志](https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Achangelog)
@@ -32,6 +32,11 @@ datawork 关注的不是“让 AI 一次性回答一个问题”，而是帮助�
 **核心特性**：本地优先的工作区存储，无需 datawork 账号、无需注册、无需登录。工作区数据默认保存在本地（SQLite + 文件）。你可以使用 Ollama 等本地模型，也可以按需配置 OpenAI、Claude、Gemini、DeepSeek、Qwen、Kimi 等第三方模型 API。支持中英文界面。可通过 Python 插件无限拓展其能力，也可对接任意标准 MCP server。
 
 **日用场景**：翻译、阅读辅助、日常对话、本地搜索查阅、文件编辑、项目笔记、待办协作、小脚本的创作与运行、自定义工具开发、代码审核与研读等，也有专属的 Code Agent，可用于复杂项目代码开发。目前 datawork 的 Code Agent 已实现完全全程在 datawork 中开发 datawork 自身。
+
+<div align="center">
+<img src="https://github.com/jkjoker/datawork/blob/datawork/images/Pasted%20image%2020260619221829.png" width="55%" />
+<img src="https://github.com/jkjoker/datawork/blob/datawork/images/Pasted%20image%2020260619222051.png" width="35%" />
+</div>
 
 ## datawork 与其他工具的关系
 
@@ -216,6 +221,11 @@ Its original motivation is to combine three kinds of power for individuals: **AI
 **Core Specs**: Local-first workspace storage, no datawork account, no registration, no login required. Workspace data is stored locally by default (SQLite + files). You can use local models such as Ollama, or configure third-party model APIs such as OpenAI, Claude, Gemini, DeepSeek, Qwen, Kimi, and others. **Multi-language UI (English/Chinese)**. Extensible via Python plugins, and connectable to any standard MCP server.
 
 **Daily Use Cases**: Translation, reading assistance, daily chat, local search, file editing, project notes, todo collaboration, script creation & execution, custom tool development, code review & study, etc.; it also includes a dedicated Code Agent for complex project code development. The Code Agent has already been used to develop datawork itself entirely within datawork, end to end.
+
+<div align="center">
+<img src="https://github.com/jkjoker/datawork/blob/datawork/images/Pasted%20image%2020260619221829.png" width="55%" />
+<img src="https://github.com/jkjoker/datawork/blob/datawork/images/Pasted%20image%2020260619222051.png" width="35%" />
+</div>
 
 ## How datawork Relates to Other Tools
 
