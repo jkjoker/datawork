@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/jkjoker/datawork/blob/datawork/images/datawork_128x128.ico" alt="datawork" width="128" />
+<img src="https://github.com/jkjoker/datawork/blob/datawork/images/datawork_logo_new.png" alt="datawork" width="128" />
 
 # datawork
 
