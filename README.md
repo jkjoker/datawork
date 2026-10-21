@@ -10,7 +10,7 @@
 
 <a href="https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Aabout"><img src="https://img.shields.io/badge/Platform-Windows-blue?logo=windows" alt="Windows" /></a>
 <a href="https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Aabout"><img src="https://img.shields.io/badge/Built%20with-Python-3776AB?logo=python&logoColor=white" alt="Python" /></a>
-<a href="https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Achangelog"><img src="https://img.shields.io/badge/Version-3.8.7f11.7.4.20261006-green" alt="Version" /></a>
+<a href="https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Achangelog"><img src="https://img.shields.io/badge/Version-3.8.7f12.14.16.20261021-green" alt="Version" /></a>
 <a href="https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Aabout"><img src="https://img.shields.io/badge/License-Proprietary-red" alt="License" /></a>
 
 [官方主页](https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Aabout) · [详细介绍](https://publish.obsidian.md/xm/wiki/%F0%9F%92%8E%20%E5%85%B3%E4%BA%8E/datawork) · [下载](https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Aabout) · [更新日志](https://publish.obsidian.md/xm/wiki/%E6%95%99%E7%A8%8B/datawork%EF%BC%9Achangelog)
@@ -38,7 +38,7 @@ datawork 是一个本地优先的个人 AI Agent 系统，把资料、对话、�
 | 模型管理 | 支持多供应商、多协议族、自定义模型、推理深度与模型能力配置。 |
 | Web Studio | 支持通过浏览器访问本地工作区，用于多端查看、对话和任务推进。 |
 | AI 调用账本 | 记录模型用量、费用、耗时和来源入口。 |
-| 权限与安全 | 文件白名单、工具权限审批和会话级权限模式。 |
+| 权限与安全 | 安全护栏（保护区隐身或锁定）、文件白名单、工具权限审批和会话级权限模式。 |
 
 ## 界面预览
 
@@ -110,7 +110,7 @@ It is designed for long-term workflows across reading, writing, coding, organizi
 | Model management | Multiple providers, protocol families, custom models, reasoning depth, and capability configuration. |
 | Web Studio | Browser access to the local workspace for multi-device conversations and task work. |
 | AI call ledger | Records model usage, cost, latency, and entry point. |
-| Permissions and safety | File whitelist, tool approval, and session-level permission modes. |
+| Permissions and safety | Security guardrails (protected areas kept hidden or locked), file whitelist, tool approval, and session-level permission modes. |
 
 ## Screenshots
 
